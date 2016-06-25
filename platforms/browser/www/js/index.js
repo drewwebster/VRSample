@@ -51,4 +51,4 @@ var app = {
 app.initialize();
 
 // import entry point
-System.import("../app/index.js");
+System.import("/app/index.js");
